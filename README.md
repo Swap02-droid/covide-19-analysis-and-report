@@ -5,4 +5,4 @@ Finally create a BI report on india death rate and recovery rate by month and da
 
 time_series_covid19_recovered_global, time_series_covid19_deaths_global, time_series_covid19_confirmed_global:- This data used to analyze 
 
-Final Corona Virus Data:- this dataset is used for the BI report
+Final Corona Virus Data:- dataset is used for the BI report
